@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "548683804196",
+    "project_id": "ramadhanapp-602c9",
+    "storage_bucket": "ramadhanapp-602c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:548683804196:android:355751c1bb8314263672b1",
+        "android_client_info": {
+          "package_name": "com.example.abir_sabil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "548683804196-h6323jifch4gsar82tndemji6bvd0c06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1VZxAW_44Yl8WJPAzJ0xJGduuAjo32Ck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "548683804196-h6323jifch4gsar82tndemji6bvd0c06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
